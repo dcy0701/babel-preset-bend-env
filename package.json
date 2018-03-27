@@ -1,0 +1,27 @@
+{
+  "name": "babel-preset-bend-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcy0701/babel-preset-bend-env.git"
+  },
+  "keywords": [
+    "preset"
+  ],
+  "author": "dongchongyang@meituan.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcy0701/babel-preset-bend-env/issues"
+  },
+  "homepage": "https://github.com/dcy0701/babel-preset-bend-env#readme",
+  "dependencies": {
+    "babel-plugin-bend-component": "^0.0.15",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4"
+  }
+}
